@@ -1,0 +1,4 @@
+dist/
+.tox/
+*.pickle
+*.pyc
